@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-# Professional Experience
+# Professional Experience :fleur_de_lis:
 **Technical Writer @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
 January 2022 – Current  
 - Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services.
@@ -59,7 +59,7 @@ M.A. in Bilingual & Multicultural Education @ Universidad de Alcalá de Henares
 B.A. in History, Minor in Pre-Law @ University of Central Florida  
 2009 // Orlando, Florida
 
-# Achivements
+# Achivements :trophy:
 - 2012-’14 // All-but-disseration for Ph.D. in History of Science, Medicine & Technology @ Universitat Autónoma de Barcelona  
 - 2018-Current // Member of the [International Jacques Ellul Society (IJES)](https://ellul.org)  
 - 2020 // Based in Granada, Spanish podcast La Nevera dedicated a full episode, volume 29, to my M.A. thesis, “El neo-ludismo en los movimientos ecologistas de acción directa en Estados Unidos (1970-2010)”. Available on [iVoox](https://www.ivoox.com/en/nevera-vol-29-el-neo-ludismo-movimientos-audios-mp3_rf_57219834_1.html)  
