@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-# Professional Experience :fleur_de_lis:
+# Professional Experience :briefcase:
 **Technical Writer @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
 January 2023 – Current  
 - Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services.
