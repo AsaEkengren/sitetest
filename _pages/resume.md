@@ -49,7 +49,7 @@ September 2009 – May 2013 (3.5 years)
 May 2008 – May 2009 (1 year)  
 - Responsible for handling internal paperwork and delivering dockets to the Orange County Courthouse and State Regional Service Center
 
-# Education
+# Education :mortar_board:
 M.A. in Contemporary History @ Universidad Complutense de Madrid  
 2012 // Madrid, Spain
 
