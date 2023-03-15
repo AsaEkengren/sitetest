@@ -16,7 +16,6 @@
 title: Asa Ekengren
 email: aekengren@pm.me
 description: "Asa Ekengren's personal website and portfolio"
-twitter_username: aekengren
 github_username: AsaEkengren
 minimal_mistakes_skin: dark
 logo: "/assets/images/siteicon.png"
@@ -74,9 +73,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aekengren/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aekengren"
     - label: "Rate Your Music"
       icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
@@ -89,9 +85,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aekengren/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aekengren"
     - label: "Rate Your Music"
       icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
