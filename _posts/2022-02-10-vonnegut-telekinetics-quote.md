@@ -10,4 +10,4 @@ tags:
 
 > “Those who believe in telekinetics, raise my hand.”
   
-> <cite>Kurt Vonnegut</cite>
+<cite>Kurt Vonnegut</cite>
