@@ -5,7 +5,7 @@ title: "Resume"
 
 # Professional Experience :fleur_de_lis:
 **Technical Writer @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
-January 2022 – Current  
+January 2023 – Current  
 - Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services.
 - Supporting proposals to US Department of Defense (DoD) requests for proposal (RFPs)
 
