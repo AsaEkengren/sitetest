@@ -80,7 +80,7 @@ I played drums and composed with Idiacanthus, a promising instrumental, progress
 ## Lineup
 **Asa Ekengren** -:drum: Drums  
 **Jaime Pascual** - :guitar: Bass  
-**Ali** - :violin: Violin and :notes: vocals 
+**Ali** - :violin: Violin and :notes: vocals  
 **Tomas** - :guitar: Guitar  
 
 # Live
