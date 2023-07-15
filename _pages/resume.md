@@ -13,8 +13,7 @@ Research Tools: SAM.gov, Deltek GovWin, and FPDS.gov
 
 **Technical Writer @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
 January 2023 – June 2023  
-- Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services
-- Supporting proposals to US Department of Defense (DoD) requests for proposal (RFPs)
+- Documented software solutions, simulation and game-based training services, as well as engineering, IT, and cybersecurity services for the defense industry
 
 ---
 
