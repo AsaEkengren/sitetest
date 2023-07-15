@@ -33,7 +33,8 @@ October 2017 – April 2021 (3.5 years)
 - One of three founding members of BCG’s Data & Research Services (DRS) function in Madrid and first in Europe to support BCG’s Technology Advantage (TA) practice area
 - Selected as an ambassador from DRS Europe to visit, teach, and learn from colleagues in Bangalore, India, in December 2019
 
-Promoted! :up: {: .text-center}
+Promoted! :up:
+{: .text-center}
 
 **Translator & Editor @ [Boston Consulting Group](https://www.bcg.com)** (Madrid, Spain)  
 October 2014 – September 2017 (3 years)  
