@@ -4,9 +4,16 @@ title: "Resume"
 ---
 
 # Professional Experience :briefcase:
+**Business Development Analyst @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
+June 2023 – Current  
+- Coordinating and leading proposal efforts in response to multimillion-dollar government RFPs
+Research Tools: SAM.gov, Deltek GovWin, and FPDS.gov
+
+---
+
 **Technical Writer @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
-January 2023 – Current  
-- Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services.
+January 2023 – June 2023  
+- Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services
 - Supporting proposals to US Department of Defense (DoD) requests for proposal (RFPs)
 
 ---
