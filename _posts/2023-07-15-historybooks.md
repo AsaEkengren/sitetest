@@ -12,7 +12,7 @@ toc_sticky: true
 toc_icon: "fas fa-file-alt"
 ---
 See below for links to fantastic lists of history eBooks by topic from the r/FreeEbooks subreddit
-# [100 eBooks on obscure topics](https://www.reddit.com/r/FreeEBOOKS/comments/jbv4ya/happy_1_million_subscribers_here_is_a_list_of_100/)
+# [100 eBooks on the obscure & particular](https://www.reddit.com/r/FreeEBOOKS/comments/jbv4ya/happy_1_million_subscribers_here_is_a_list_of_100/)
 
 ## Highlights
 :hocho: [Surgical Instruments in Greek and Roman Times (1907), by John Steward Milne (Keith Gold Medalist in Clinical Surgery)](https://www.gutenberg.org/ebooks/40424)
