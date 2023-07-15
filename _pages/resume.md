@@ -20,8 +20,10 @@ January 2023 – June 2023
 
 **Technical Writer @ [CLX Engineering](https://clxengineering.com)** (Sanford, FL)  
 March 2022 – December 2022 (9 months)  
-- Responsible for end-to-end documentation, from sales to project commissioning, for CLX’s automated industrial electrical control systems, as well as supporting, proprietary SCADA and inventory management software
-- Created corporate style guide and made improvements to the company knowledge management system
+- Responsible for knowledge management and documenting CLX's automated industrial electrical control systems, proprietary SCADA suite, Cortex, and computerized maintenance management system, Matrax
+- Wrote, reviewed, and edited supporting project documentation, such as contracts, implementation plans, contingency plans, daily work plans, and progress reports
+- Gathered information from engineers, schematic drawings, and directly from IT systems to create supporting technical documents, such as operation and maintenance manuals and test plans
+- Developed and wrote corporate standard operating procedures, work instructions, templates, examples, and other company standards
 
 ---
 
