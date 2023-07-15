@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Asa Ekengren"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical writer, historian, musician, juggler, and foody"
+  bio    : "Welcome to my personal corner of the abyssnet. I'm glad you made it here!"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
