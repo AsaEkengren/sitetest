@@ -1,6 +1,10 @@
 ---
 permalink: /resume/
 title: "Resume"
+toc: true
+toc_label: "Sections"
+toc_sticky: true
+toc_icon: "fas fa-file-alt"
 ---
 
 # Professional Experience :briefcase:
