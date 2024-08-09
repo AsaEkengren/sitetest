@@ -4,7 +4,7 @@ title: "Resume"
 ---
 
 # Professional Experience :briefcase:
-**SOP Manager @ [Tepa Companies](http://tepa.com))** (Orlando, FL)  
+**SOP Manager @ [Tepa Companies](http://tepa.com)** (Orlando, FL)  
 October 2023 – Current
 - Responsible for creating, updating, and enhancing standard operating procedures, controlled company documents, and corporate policies & procedures for the Tepa Companies, owned by the Paskenta Band of Nomlaki Indians.
 
