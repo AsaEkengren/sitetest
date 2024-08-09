@@ -4,10 +4,16 @@ title: "Resume"
 ---
 
 # Professional Experience :briefcase:
+**SOP Manager @ [Tepa Companies]([https://www.hatalom.com](http://tepa.com))** (Orlando, FL)  
+October 2023 – Current
+- Responsible for creating, updating, and enhancing standard operating procedures, controlled company documents, and corporate policies & procedures for the Tepa Companies, owned by the Paskenta Band of Nomlaki Indians.
+
+---
+
 **Business Development Analyst @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
-June 2023 – Current  
-- Coordinating and leading proposal efforts in response to multimillion-dollar government RFPs
-Research Tools: SAM.gov, Deltek GovWin, and FPDS.gov
+June 2023 – September 2023  
+- Coordinated and led proposal efforts in response to multimillion-dollar government solicitations. Primary offerings included operations & maintenance support, simulation and training services, engineering, software development, and cybersecurity.
+- Led the past performance volume on Hatalom's winning bid for the single award ID/IQ contract, Computer Based Instructional Development (CBID) III, with a ceiling of $49.3M over five years
 
 ---
 
