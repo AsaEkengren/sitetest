@@ -76,6 +76,9 @@ author:
     - label: "Rate Your Music"
       icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
+    - label: "Discogs"
+      icon: "fab fa-fw fa-discogs"
+      url: "https://www.discogs.com/user/aekengren/collection"
 
 footer:
   links:
