@@ -15,8 +15,6 @@ tags:
 {% include video id="0dl0uBxPe4s" provider="youtube" %}
 **clipping. - Work Work (feat. Cocc Pistol Cree)**
 {% include video id="-2GozE6XEqg" provider="youtube" %}
-**Pa Salieu - Block Boy**
-{% include video id="Std1vdUMP3g" provider="youtube" %}
 **JID - 151 Rum**
 {% include video id="vtY8pM-H65c" provider="youtube" %}
 **Organized Konfusion - Stress**
