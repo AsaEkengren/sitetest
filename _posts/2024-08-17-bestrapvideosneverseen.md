@@ -18,6 +18,8 @@ Death metal lyrics in a rap soundscape.
 {% include video id="NReT4f1bXY0" provider="youtube" %}
 **JID - 151 Rum**
 {% include video id="vtY8pM-H65c" provider="youtube" %}
+**Leikeli47 - Miss Me**
+{% include video id="M7-pXHbruYA" provider="youtube" %}
 **Organized Konfusion - Stress**
 {% include video id="vDWFq6BHsac" provider="youtube" %}
 **Pa Salieu - Block Boy**
