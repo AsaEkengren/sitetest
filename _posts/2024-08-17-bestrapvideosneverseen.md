@@ -19,7 +19,7 @@ Death metal lyrics in a rap soundscape.
 {% include video id="NReT4f1bXY0" provider="youtube" %}
 **JID - 151 Rum**
 {% include video id="vtY8pM-H65c" provider="youtube" %}
-**Kendrick Lamar - Alright**
+**Kendrick Lamar - Alright**  
 Well, you might have already seen this one, but you definitely should if you haven't yet.  
 {% include video id="Z-48u_uWMHY" provider="youtube" %}
 **Leikeli47 - Miss Me**
