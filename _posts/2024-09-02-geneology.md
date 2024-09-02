@@ -25,6 +25,4 @@ graph TD
     C --> H[Alvin Francis Ekengren<br>DOB: 1932-12-16<br>Birthplace: Olathe, Kansas<br>DOD: 2019-01-01<br>Death Place: Wichita, Kansas<br>Description: A veteran and historian]
     D --> I[Pedro San Andrés Lavera<br>DOB: 1925-03-24<br>Birthplace: Tomelloso, Ciudad Real, España<br>DOD: 2020-08-17<br>Death Place: Cuernavaca, Morelos, México<br>Description: A retired lawyer and avid gardener]
     D --> J[Matilde Pérez Martínez<br>DOB: 1927-01-30<br>Birthplace: Tijola, Almeria, España<br>DOD: 2003-05-30<br>Death Place: Cuernavaca, Morelos, México<br>Description: A chef and community leader]
-    %% Style for light teal lines
-    linkStyle default stroke:#b2f0e8,stroke-width:2px;
 " %}
