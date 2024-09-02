@@ -21,8 +21,10 @@ graph TD
     A --> C[Neal Alvin Ekengren<br>DOB: 1957-11-28<br>Birthplace: Independence, Missouri, USA<br>DOD: -<br>Description: An engineer with a love for history]
     A --> D[Matilde San Andrés Pérez<br>DOB: 1954-11-07<br>Birthplace: Sabinas, Coahuila, Mexico<br>DOD: -<br>Description: A teacher and avid reader]
     %% Third Generation (Grandparents)
-    C --> G[James Ekengren<br>DOB: 1930-01-01<br>Birthplace: New York, USA<br>DOD: 1990-01-01<br>Description: A carpenter and WWII veteran]
-    C --> H[Helen Johnson<br>DOB: 1935-02-02<br>Birthplace: Boston, Massachusetts, USA<br>DOD: 2005-02-02<br>Description: A homemaker and talented baker]
+    C --> G[Gail Donna "Patsy" Baker<br>DOB: 1935-10-21<br>Birthplace: Chicago, Illinois<br>DOD: 2019-05-09<br>Death Place: Wichita, Kansas<br>Description: A dedicated nurse and community volunteer]
+    C --> H[Alvin Francis Ekengren<br>DOB: 1932-12-16<br>Birthplace: Olathe, Kansas<br>DOD: 2019-01-01<br>Death Place: Wichita, Kansas<br>Description: A veteran and historian]
     D --> I[Pedro San Andrés Lavera<br>DOB: 1925-03-24<br>Birthplace: Tomelloso, Ciudad Real, España<br>DOD: 2020-08-17<br>Death Place: Cuernavaca, Morelos, México<br>Description: A retired lawyer and avid gardener]
     D --> J[Matilde Pérez Martínez<br>DOB: 1927-01-30<br>Birthplace: Tijola, Almeria, España<br>DOD: 2003-05-30<br>Death Place: Cuernavaca, Morelos, México<br>Description: A chef and community leader]
+    %% Style for light teal lines
+    linkStyle default stroke:#b2f0e8,stroke-width:2px;
 " %}
