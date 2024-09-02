@@ -6,10 +6,6 @@ categories:
   - article
 tags:
   - geneology
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: true
-toc_icon: "fas fa-file-alt"
 ---
 
 {% capture mermaid_graph %}
