@@ -6,14 +6,27 @@ categories:
   - article
 tags:
   - genealogy
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: true
-toc_icon: "fas fa-file-alt"
 ---
 
 {% capture mermaid_graph %}
 graph TD;
+    style A stroke:#b2f0e8,stroke-width:2px;
+    style B stroke:#b2f0e8,stroke-width:2px;
+    style C stroke:#b2f0e8,stroke-width:2px;
+    style D stroke:#b2f0e8,stroke-width:2px;
+    style E stroke:#b2f0e8,stroke-width:2px;
+    style F stroke:#b2f0e8,stroke-width:2px;
+    style G stroke:#b2f0e8,stroke-width:2px;
+    style H stroke:#b2f0e8,stroke-width:2px;
+    style I stroke:#b2f0e8,stroke-width:2px;
+    style J stroke:#b2f0e8,stroke-width:2px;
+    style K stroke:#b2f0e8,stroke-width:2px;
+    style L stroke:#b2f0e8,stroke-width:2px;
+    style M stroke:#b2f0e8,stroke-width:2px;
+    style N stroke:#b2f0e8,stroke-width:2px;
+    style O stroke:#b2f0e8,stroke-width:2px;
+    style P stroke:#b2f0e8,stroke-width:2px;
+    style Q stroke:#b2f0e8,stroke-width:2px;
     A[Asa Francis Ekengren San Andrés<br>DOB: 1987-05-05<br>Birthplace: Jackson, Missouri, USA];
     A --> C[Neal Alvin Ekengren<br>DOB: 1957-11-28<br>Birthplace: Independence, Missouri, USA];
     A --> D[Matilde San Andrés Pérez<br>DOB: 1954-11-07<br>Birthplace: Sabinas, Coahuila, Mexico];
