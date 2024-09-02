@@ -1,7 +1,6 @@
+<!-- _includes/mermaid.html -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>
-  mermaid.initialize({startOnLoad:true});
-</script>
+<script>mermaid.initialize({startOnLoad: true});</script>
 <div class="mermaid">
-{{ include.content }}
+  {{ include.content | newline_to_br }}
 </div>
