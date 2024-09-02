@@ -14,8 +14,6 @@ toc_icon: "fas fa-file-alt"
 ---
 
 
-<button onclick="toggleSection('section1')">Toggle Section 1</button>
-<div id="section1" style="display:none;">
 {% include mermaid.html content="
   graph TD;
     A-->B;
