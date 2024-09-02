@@ -1,22 +1,32 @@
 ---
-title: "Family geneology"
+title: "Family Genealogy"
 date: 2024-09-02
 excerpt: "How I got here"
 categories:
   - article
 tags:
-  - geneology
+  - genealogy
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: "fas fa-file-alt"
 ---
 
 {% capture mermaid_graph %}
 graph TD;
-    A[Asa Francis Ekengren San Andrés<br>DOB: 1987-05-05<br>Birthplace: Jackson, Missouri, USA<br>DOD: -<br>Description: Loves technology and outdoor activities];
-    A --> C[Neal Alvin Ekengren<br>DOB: 1957-11-28<br>Birthplace: Independence, Missouri, USA<br>DOD: -<br>Description: An engineer with a love for history];
-    A --> D[Matilde San Andrés Pérez<br>DOB: 1954-11-07<br>Birthplace: Sabinas, Coahuila, Mexico<br>DOD: -<br>Description: A teacher and avid reader];
-    C --> G[Gail Donna &apos;Patsy&apos; Baker<br>DOB: 1935-10-21<br>Birthplace: Chicago, Illinois<br>DOD: 2019-05-09<br>Death Place: Wichita, Kansas<br>Description: A dedicated nurse and community volunteer];
-    C --> H[Alvin Francis Ekengren<br>DOB: 1932-12-16<br>Birthplace: Olathe, Kansas<br>DOD: 2019-01-01<br>Death Place: Wichita, Kansas<br>Description: A veteran and historian];
-    D --> I[Pedro San Andrés Lavera<br>DOB: 1925-03-24<br>Birthplace: Tomelloso, Ciudad Real, España<br>DOD: 2020-08-17<br>Death Place: Cuernavaca, Morelos, México<br>Description: A retired lawyer and avid gardener];
-    D --> J[Matilde Pérez Martínez<br>DOB: 1927-01-30<br>Birthplace: Tijola, Almeria, España<br>DOD: 2003-05-30<br>Death Place: Cuernavaca, Morelos, México<br>Description: A chef and community leader];
+    A[Asa Francis Ekengren San Andrés<br>DOB: 1987-05-05<br>Birthplace: Jackson, Missouri, USA];
+    A --> C[Neal Alvin Ekengren<br>DOB: 1957-11-28<br>Birthplace: Independence, Missouri, USA];
+    A --> D[Matilde San Andrés Pérez<br>DOB: 1954-11-07<br>Birthplace: Sabinas, Coahuila, Mexico];
+    C --> G[Gail Donna 'Patsy' Baker<br>DOB: 1935-10-21<br>Birthplace: Chicago, Illinois];
+    C --> H[Alvin Francis Ekengren<br>DOB: 1932-12-16<br>Birthplace: Olathe, Kansas];
+    D --> I[Pedro San Andrés Lavera<br>DOB: 1925-03-24<br>Birthplace: Tomelloso, Ciudad Real, España];
+    D --> J[Matilde Pérez Martínez<br>DOB: 1927-01-30<br>Birthplace: Tijola, Almeria, España];
+    H --> L[Alvin Francis Ekengren<br>DOB: 1907-08-28<br>Birthplace: Olathe, Kansas<br>DOD: 1992-05-20<br>Death Place: Olathe, Kansas];
+    H --> M[Geneva Laverne Randall<br>DOB: 1909-10-17<br>Birthplace: Wichita, Kansas<br>DOD: 1970-09-21<br>Death Place: Clay County, Missouri];
+    G --> N[Cornelius Isaac Baker<br>DOB: 1904<br>Birthplace: Leslie, Todd, Minnesota<br>DOD: 1984-08-04<br>Death Place: Osakis, Douglas, Minnesota];
+    G --> O[Elmera Carrie Pollei<br>DOB: 1908-05-02<br>Birthplace: New Ulm, Brown, Minnesota<br>DOD: 1968-10-15<br>Death Place: Knoxville, Tennessee];
+    I --> P[Bonifacio San Andrés López<br>DOB: 1898-04-11<br>Birthplace: Consuegra, Toledo, España<br>DOD: 1969-04<br>Death Place: Torreón, Coahuila, México];
+    I --> Q[Purificación Lavera Mulás<br>DOB: 1898<br>Birthplace: Peñaranda de Bracamonte, Salamanca, España<br>DOD: 1922<br>Death Place: Peñaranda de Bracamonte, Salamanca, España];
 {% endcapture %}
 
 {% include mermaid.html content=mermaid_graph %}
