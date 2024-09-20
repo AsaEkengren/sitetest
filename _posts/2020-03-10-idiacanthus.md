@@ -8,6 +8,8 @@ tags:
   - experimental
   - instrumental
 gallery1:
+  - url: /assets/images/idiacanthus/guadalajara.jpg
+    image_path: /assets/images/idiacanthus/guadalajara.jpg
   - url: /assets/images/idiacanthus/guadalajara1.jpg
     image_path: /assets/images/idiacanthus/guadalajara1.jpg
   - url: /assets/images/idiacanthus/guadalajara2.jpg
