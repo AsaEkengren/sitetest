@@ -1,5 +1,5 @@
 ---
-title: "David Graeber on Freedom & Constraints"
+title: "David Graeber on freedom & constraints"
 date: 2024-08-09
 categories:
   - blog
