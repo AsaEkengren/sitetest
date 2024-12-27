@@ -1,5 +1,5 @@
 ---
-title: "Best Rap & Hip-Hop Videos You've Never Seen"
+title: "Best rap & hip-hop videos you've never seen"
 date: 2024-08-14
 categories:
   - blog

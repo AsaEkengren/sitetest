@@ -77,7 +77,7 @@ gallery2:
     image_path: /assets/images/idiacanthus/wurlitzer18.jpg
 ---
 # Introduction
-I played drums and composed with Idiacanthus, a promising instrumental, progressive rock project formed in Madrid, Spain, in 2018. Composed a set of songs for nearly three years, but the COVID-19 pandemic unfortunately resulted in the studio recording being cancelled and the group disbanding.
+I played drums and composed with Idiacanthus, an instrumental, progressive rock project formed in Madrid, Spain, in 2018. We composed a set of songs for nearly three years, but the COVID-19 pandemic unfortunately resulted in the studio recording being cancelled and the group disbanding.
 
 ## Lineup
 **Asa Ekengren** -:drum: Drums  
