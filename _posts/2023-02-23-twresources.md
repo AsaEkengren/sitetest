@@ -1,5 +1,5 @@
 ---
-title: "Free Resources for Technical Writers"
+title: "Free resources for technical writers 👨🏻‍💻"
 date: 2023-02-23
 last_modified_at: 2022-02-23
 toc: true
